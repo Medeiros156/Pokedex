@@ -30,7 +30,7 @@ export default function PokemonPopUp({ selectedPokemon }) {
             <Dialog PaperProps={{
                 style: {
                     backgroundColor: 'transparent',
-                    backgroundImage: `url(/assets/pokedex.png)`,
+                    backgroundImage: `url(/Pokedex/assets/pokedex.png)`,
                     backgroundSize: '100%',
                     backgroundPosition: 'center',
                     backgroundRepeat: 'no-repeat',
